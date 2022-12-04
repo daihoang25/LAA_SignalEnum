@@ -2,7 +2,7 @@
 Source code for [Deep Learning-Aided Signal Enumeration for Lens Antenna Array]
 
 ```
-D. T. Hoang, K. Lee "Deep Learning-Aided Signal Enumeration for Lens Antenna Array," in IEEE Acess 2022.
+D. T. Hoang and K. Lee, "Deep Learning-Aided Signal Enumeration for Lens Antenna Array," in IEEE Access, vol. 10, pp. 123835-123846, 2022, doi: 10.1109/ACCESS.2022.3224608.
 ```
 
 
