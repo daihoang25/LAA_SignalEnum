@@ -1,10 +1,8 @@
 ## Deep Learning-based Signal Enumeration with LAA
 Source code for [Deep Learning-Aided Signal Enumeration for Lens Antenna Array]
 
-```
+If you use this code in your research, please cite:
 D. T. Hoang and K. Lee, "Deep Learning-Aided Signal Enumeration for Lens Antenna Array," in IEEE Access, vol. 10, pp. 123835-123846, 2022, doi: 10.1109/ACCESS.2022.3224608.
-```
-
 
 To successfully run the code, you should follow the steps below
 
